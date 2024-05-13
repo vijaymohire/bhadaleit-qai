@@ -1,2 +1,2 @@
 # bhadaleit-qai
-This is ourstartup's QAI features for our products and services
+This is ourstartup's QAI features for our products and services. we have a large collection of legacy products and services(800+) that we are planning to upgrade to QAI platform. We seek funding in this massive revamping process. Investors are welcome to look into our project briefs and reach out to me at vijaymohire AT Gmail Dot Com for further details. We also are open for Holding companies that can offer a good price for M&A process. 
