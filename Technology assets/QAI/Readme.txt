@@ -1,0 +1,1 @@
+QAI technologies related assets
