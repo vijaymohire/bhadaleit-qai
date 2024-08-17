@@ -1,0 +1,1 @@
+This holds the knowledge base of the enterprise that can include IP, Digital assets, research outcomes, internal knowledge, domain related knowledge etc, however more towards specifics to our own details
