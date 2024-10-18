@@ -1,1 +1,5 @@
 To demo the benefits obtained during the incubation period. So this is a post-incubation task. 
+
+This is to leverage the benefits and fine tune, various models, parameters and personalisation features that will ensure best results duing real production activities. 
+
+This can be undeetaken as part of a lab activity or a small team work allowing to bring the benfits to the project offering valuable inputs for asset owners.  
